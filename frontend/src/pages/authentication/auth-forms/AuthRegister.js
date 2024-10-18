@@ -41,7 +41,7 @@ const AuthRegister = () => {
       return;
     }
     // Register logic
-    fetchPostData("/users/add",{email,password})
+    fetchPostData("/auth/users/add",{email,password})
     .then(() => {
       setLoginError('');    
       navigate('/login');
