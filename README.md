@@ -1,6 +1,6 @@
 # Photo Album Management Application (FullStack) <img src="https://media.tenor.com/EAmrxInvWaMAAAAj/hamster-cute.gif" alt="Taking Photo Gif" width="50" height="50">
 
-Hey guys, remember the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API) ? I said "In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently". I LIED. Instead, I chose to complete the frontend of the API.
+Hello everyone, remember the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API) ? I mentioned, ‘In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently.’ 🌸 I LIED! 🌸 Instead, I chose to complete the frontend of the API.”
 
 This project is the frontend for the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API), developed using modern JavaScript and React.js. It allows users to manage photo albums, upload photos, and perform various operations on both albums and photos. The frontend interacts with the backend API to provide seamless management capabilities.
 
@@ -48,13 +48,14 @@ This project is the frontend for the [**Photo Album Management API**](https://gi
 
 The application will run on `http://localhost:3000` by default.
 
-## Backend Changes
-- Added a `HomeController` for testing purposes.
+## Backend Changes (İmportant!)
 - Included `@CrossOrigin` to my controllers with the following line of code:
   ```java
   @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowedHeaders = "*")
 
 This allows all controllers to accept requests from the specified origin.
+
+- Added a `HomeController` for testing purposes.
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration. Happy coding!
 
