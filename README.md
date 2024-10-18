@@ -48,13 +48,11 @@ This project is the frontend for the [**Photo Album Management API**](https://gi
 
 The application will run on `http://localhost:3000` by default.
 
-## Backend Changes (İmportant!)
+## Backend Changes (Important!)
 - Included `@CrossOrigin` to my controllers with the following line of code:
   ```java
   @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowedHeaders = "*")
-
-This allows all controllers to accept requests from the specified origin.
-
+  This allows all controllers to accept requests from the specified origin.
 - Added a `HomeController` for testing purposes.
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration. Happy coding!
