@@ -1,4 +1,4 @@
-# Photo Album Management Application (FullStack)
+# Photo Album Management Application (FullStack) <img src="https://media.tenor.com/laUPAXXjuZcAAAAj/cats-white-cat.gif" alt="Posing for Photo Gif" width="50" height="50"><img src="https://media.tenor.com/EAmrxInvWaMAAAAj/hamster-cute.gif" alt="Taking Photo Gif" width="50" height="50">
 
 Hey guys, remember the **Photo Album Management API**? I said "In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently". I LIED. Instead, I chose to complete the frontend of the API.
 
@@ -55,3 +55,11 @@ The application will run on `http://localhost:3000` by default.
   @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowedHeaders = "*")
 
 This allows all controllers to accept requests from the specified origin.
+
+Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration. Happy coding!
+
+<img src="https://media.tenor.com/QbsVdi4RPTUAAAAj/cat-cute.gif" alt="Get in Touch Gif" width="50" height="50"> Get in Touch:
+
+- **Email**: [gunsugunay98@gmail.com](mailto:gunsugunay98@gmail.com)
+- **LinkedIn**: [linkedin.com/in/gunsugunaydin](https://www.linkedin.com/in/gunsugunaydin/)
+
