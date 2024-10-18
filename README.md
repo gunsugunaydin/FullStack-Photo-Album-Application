@@ -52,6 +52,7 @@ The application will run on `http://localhost:3000` by default.
 - Included `@CrossOrigin` to my controllers with the following line of code:
   ```java
   @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowedHeaders = "*")
+  
   This allows all controllers to accept requests from the specified origin.
 - Added a `HomeController` for testing purposes.
 
