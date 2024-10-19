@@ -10,7 +10,7 @@ Check out a quick demo of the **Photo Album Management Application** in action:
 
 ![Ekran-Kaydı-2024-10-19-033451-_online-video-cutter com_](https://github.com/user-attachments/assets/6edc8c09-33d0-48ab-9b5e-2d692336dc0b)
 
-![Ekran Kaydı 2024-10-19 033451 (online-video-cutter com)](https://github.com/user-attachments/assets/e1a22a2e-7d32-4b52-8d8f-fc7a519b0008)
+![Ekran-Kaydı-2024-10-19-033451-_online-video-cutter](https://github.com/user-attachments/assets/d9da959e-aea6-42fb-83b1-57a4858d2294)
 
 ![Ekran-Kaydı-2024-10-19-033451-_online-video-cutter com_-_1_](https://github.com/user-attachments/assets/79813b7a-5568-4704-b198-b4dcd5f589bc)
 
