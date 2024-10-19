@@ -10,15 +10,11 @@ Below is a quick demo of the **Photo Album Management Application**. The demo is
 
 ### Part 1:
 
-https://github.com/user-attachments/assets/d365bae2-3e5d-45b6-88ac-714820b9acf3
-
-
+https://github.com/user-attachments/assets/41294614-f3a5-4689-a0eb-580b68d9fa22
 
 ### Part 2:
 
-https://github.com/user-attachments/assets/93970d2a-c4b3-4ebc-a921-a520d9a3e650
-
-
+https://github.com/user-attachments/assets/e5db3c9f-3e7a-4c40-a400-33850d16c8b2
 
 ## Features
 
@@ -54,6 +50,12 @@ https://github.com/user-attachments/assets/93970d2a-c4b3-4ebc-a921-a520d9a3e650
 - **Bootstrap**: For responsive design and layout.
 - **CSS**: Custom styling for the application's UI.
 - **HTML**: Used for structuring and presenting content on the web.
+
+## Template Source
+
+This project is heavily customized based on the **Mantis-React Free Template**. You can find the original template here:
+
+- [Mantis-React Free Template](https://github.com/codedthemes/mantis-free-react-admin-template)
 
 ## How to Run
 
