@@ -4,6 +4,12 @@ Hello everyone, remember the [**Photo Album Management API**](https://github.com
 
 This project is the frontend for the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API), developed using modern JavaScript and React.js. It allows users to manage photo albums, upload photos, and perform various operations on both albums and photos. The frontend interacts with the backend API to provide seamless management capabilities.
 
+## Demo
+
+Check out a quick demo of the **Photo Album Management Application** in action:
+
+![Photo Album Management Application Demo]https://s185.convertio.me/p/OHmmRTwCNfMZzLpJ01VN3w/a297f593f1bb119135ccfe9cd9de7e0c/Ekran-Kayd%C4%B1-2024-10-19-103528.gif
+
 ## Features
 
 ### User Authentication
