@@ -8,7 +8,12 @@ This project is the frontend for the [**Photo Album Management API**](https://gi
 
 Check out a quick demo of the **Photo Album Management Application** in action:
 
-<img src="https://s185.convertio.me/p/OHmmRTwCNfMZzLpJ01VN3w/a297f593f1bb119135ccfe9cd9de7e0c/Ekran-Kayd%C4%B1-2024-10-19-103528.gif" alt="Taking Photo Gif" width="100" height="100">
+![Ekran-Kaydı-2024-10-19-033451-_online-video-cutter com_](https://github.com/user-attachments/assets/6edc8c09-33d0-48ab-9b5e-2d692336dc0b)
+
+![Ekran Kaydı 2024-10-19 033451 (online-video-cutter com)](https://github.com/user-attachments/assets/e1a22a2e-7d32-4b52-8d8f-fc7a519b0008)
+
+![Ekran Kaydı 2024-10-19 033451 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/3c41a8db-8fb9-45c0-907a-c509ff57f41b)
+
 
 ## Features
 
