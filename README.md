@@ -8,7 +8,7 @@ This project is the frontend for the [**Photo Album Management API**](https://gi
 
 Check out a quick demo of the **Photo Album Management Application** in action:
 
-![Photo Album Management Application Demo]https://s185.convertio.me/p/OHmmRTwCNfMZzLpJ01VN3w/a297f593f1bb119135ccfe9cd9de7e0c/Ekran-Kayd%C4%B1-2024-10-19-103528.gif
+<img src="https://api19.iloveimg.com/v1/download/hhs2rnxmb1l7gg5sh86mszmhdy5d7f12tdfmw6ywddz7ywd0cwrwbdjwwbmfmvjjp7vy7kh2gxpxq3bk5ddwAfvl77t2sv4yA9zklb37l6nf0v5ky53pdgnArkq8r6fzA275z1qq8m5gqyr6cxz4zt888b925wtlx4pmgl0vg7gs0gx20chq" alt="Taking Photo Gif" width="100" height="100">
 
 ## Features
 
