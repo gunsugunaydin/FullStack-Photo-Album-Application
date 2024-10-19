@@ -6,16 +6,17 @@ This project is the frontend for the [**Photo Album Management API**](https://gi
 
 ## Demo
 
-Check out a quick demo of the **Photo Album Management Application** in action:
+Below is a quick demo of the **Photo Album Management Application**. The demo is divided into two parts:
+
+### Part 1:
+
+https://github.com/user-attachments/assets/d365bae2-3e5d-45b6-88ac-714820b9acf3
 
 
 
-https://github.com/user-attachments/assets/c1e13d72-2e1e-43cc-ba06-58cbf9c9e7af
+### Part 2:
 
-
-
-https://github.com/user-attachments/assets/0329bd9c-952a-456e-820a-5d582c985305
-
+https://github.com/user-attachments/assets/93970d2a-c4b3-4ebc-a921-a520d9a3e650
 
 
 
