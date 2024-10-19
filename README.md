@@ -1,6 +1,6 @@
 # Photo Album Management Application (FullStack) <img src="https://media.tenor.com/EAmrxInvWaMAAAAj/hamster-cute.gif" alt="Taking Photo Gif" width="50" height="50">
 
-Hello everyone, remember the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API) ? I mentioned, ‘In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently.’ 🌸 I LIED! 🌸 Instead, I chose to complete the frontend of the API.”
+Hello everyone, remember the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API) ? I mentioned, 'In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently.' 🌸 I LIED! 🌸 Instead, I chose to complete the frontend of the API.”
 
 This project is the frontend for the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API), developed using modern JavaScript and React.js. It allows users to manage photo albums, upload photos, and perform various operations on both albums and photos. The frontend interacts with the backend API to provide seamless management capabilities.
 
@@ -10,11 +10,11 @@ Below is a quick demo of the **Photo Album Management Application**. The demo is
 
 ### Part 1:
 
-https://github.com/user-attachments/assets/41294614-f3a5-4689-a0eb-580b68d9fa22
+https://github.com/user-attachments/assets/766a4567-5364-4423-a31f-58584c468cba
 
 ### Part 2:
 
-https://github.com/user-attachments/assets/e5db3c9f-3e7a-4c40-a400-33850d16c8b2
+https://github.com/user-attachments/assets/720616fc-7e93-4980-aa2e-d056c2fa1726
 
 ## Features
 
@@ -61,16 +61,22 @@ This project is heavily customized based on the **Mantis-React Free Template**. 
 
 1. Clone the repository.
 2. Navigate into the project directory.
-3. Install dependencies: `npm install --force` (if it says react-scripts not recognized, also run `npm install react-scripts --save`).
+3. Install dependencies: `npm install --force` (if you encounter an error indicating that `react-scripts` is not recognized, run `npm install react-scripts --save` as well).
 4. Start the development server: `npm start`.
 
-The application will run on `http://localhost:3000` by default.
+   The application will run on `http://localhost:3000` by default.
+
+5. **Ensure the backend service is running concurrently for the application to function correctly.** For detailed instructions on running the backend, please refer to [this repository](https://github.com/gunsugunaydin/Photo-Album-Management-API).
 
 ## Backend Changes (Important!)
 - Included `@CrossOrigin` to my controllers with the following line of code:
+  
   ```java
   @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowedHeaders = "*") //This allows all controllers to accept requests from the specified origin.
-- Added a `HomeController` for testing purposes.
+  
+- Added a `HomeController` for testing purposes (Not important 🤷‍♀️, but it still counts as a change).
+
+
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration. Happy coding!
 
