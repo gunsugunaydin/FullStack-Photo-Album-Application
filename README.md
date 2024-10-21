@@ -53,9 +53,9 @@ https://github.com/user-attachments/assets/720616fc-7e93-4980-aa2e-d056c2fa1726
 
 ## Template Source
 
-This project is heavily customized based on the **Mantis-React Free Template**. You can find the original template here:
+This project is heavily customized based on the **mantis-free-react-admin-template**. You can find the original template here:
 
-- [Mantis-React Free Template](https://github.com/codedthemes/mantis-free-react-admin-template)
+- [mantis-free-react-admin-template](https://github.com/codedthemes/mantis-free-react-admin-template)
 
 ## How to Run
 
