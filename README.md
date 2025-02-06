@@ -1,4 +1,4 @@
-# Photo Album Management Application (FullStack) <img src="https://media.tenor.com/EAmrxInvWaMAAAAj/hamster-cute.gif" alt="Taking Photo Gif" width="50" height="50">
+# FullStack Photo Album Application <img src="https://media.tenor.com/EAmrxInvWaMAAAAj/hamster-cute.gif" alt="Taking Photo Gif" width="50" height="50">
 
 Hello everyone! Remember the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API)? I mentioned, "In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently." 🌸 I LIED! 🌸 Instead, I chose to complete the frontend of the API.
 
@@ -6,7 +6,7 @@ This project is the frontend for the [**Photo Album Management API**](https://gi
 
 ## Demo
 
-Below is a quick demo of the **Photo Album Management Application**. The demo is divided into two parts:
+Below is a quick demo of the **# FullStack Photo Album Application**. The demo is divided into two parts:
 
 ### Part 1:
 
