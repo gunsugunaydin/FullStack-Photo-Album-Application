@@ -2,7 +2,7 @@
 
 Hello everyone! Remember the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API)? I mentioned, "In the future, I intend to integrate cloud storage solutions, such as AWS S3, for managing photo storage more efficiently." 🌸 I LIED! 🌸 Instead, I chose to complete the frontend of the API.
 
-This project is the frontend for the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API), developed using modern JavaScript and React.js. It allows users to manage photo albums, upload photos, and perform various operations on both albums and photos. The frontend interacts with the backend API to provide seamless management capabilities.
+This project is the frontend for the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API), developed using modern JavaScript and React.js. It allows users to manage photo albums, upload photos, and perform various operations on both albums and photos. The frontend seamlessly connects with the backend API, enabling comprehensive photo and album management.
 
 ## Demo
 
