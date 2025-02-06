@@ -68,13 +68,15 @@ This project is heavily customized based on the **mantis-free-react-admin-templa
 
 5. **Ensure the backend service is running concurrently for the application to function correctly.** For detailed instructions on running the backend, please refer to [this repository](https://github.com/gunsugunaydin/Photo-Album-Management-API).
 
-## Backend Changes (Important!)
-- Included `@CrossOrigin` to my controllers with the following line of code:
+## Backend Updates
+
+To seamlessly connect the backend with the new frontend, I made the following updates to the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API):
+
+- **CORS Configuration**: Added `@CrossOrigin` annotations in all necessary controllers to allow requests from `http://localhost:3000`.  
+   ```java
+   @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowedHeaders = "*")
   
-  ```java
-  @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowedHeaders = "*") //This allows all controllers to accept requests from the specified origin.
-  
-- Added a `HomeController` for testing purposes (Not important 🤷‍♀️, but it still counts as a change).
+- Added a `HomeController` for testing purposes (Not important 🤷‍♀️, but it still counts as a update).
 
 
 
