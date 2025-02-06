@@ -80,7 +80,7 @@ To seamlessly connect the backend with the new frontend, I made the following up
   
 - Added a `HomeController` for testing purposes (Not important 🤷‍♀️, but it still counts as a update).
 
-
+<br>
 
 Please feel free to explore the code and share your feedback. I am always open to suggestions and collaboration. Happy coding!
 
