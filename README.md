@@ -73,7 +73,8 @@ Follow the instructions in [**this repository**](https://github.com/gunsugunaydi
 
 To seamlessly connect the backend with the new frontend, I made the following updates to the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API):
 
-- **CORS Configuration**: Added `@CrossOrigin` annotations in all necessary controllers to allow requests from `http://localhost:3000`.  
+- **CORS Configuration**: Added `@CrossOrigin` annotations in all necessary controllers to allow requests from `http://localhost:3000`.
+
    ```java
    @CrossOrigin(origins = "http://localhost:3000", maxAge = 3600, allowedHeaders = "*")
   
