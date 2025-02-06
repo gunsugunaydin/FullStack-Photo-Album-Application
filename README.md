@@ -58,10 +58,10 @@ This project is heavily customized based on the **mantis-free-react-admin-templa
 - [mantis-free-react-admin-template](https://github.com/codedthemes/mantis-free-react-admin-template)
 
 ## How to Run
-### Backend Setup  
+#### Backend Setup  
 Follow the instructions in the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API) repository to set up the backend.
 
-### Frontend Setup  
+#### Frontend Setup  
 1. Clone the repository.
 2. Navigate into the project directory.
 3. Install dependencies: `npm install --force` (if you encounter an error indicating that `react-scripts` is not recognized, run `npm install react-scripts --save` as well).
