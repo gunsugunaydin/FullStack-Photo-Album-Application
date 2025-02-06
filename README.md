@@ -59,7 +59,7 @@ This project is heavily customized based on the **mantis-free-react-admin-templa
 
 ## How to Run
 #### Backend Setup  
-Follow the instructions in the [**Photo Album Management API**](https://github.com/gunsugunaydin/Photo-Album-Management-API) repository to set up the backend.
+Follow the instructions in [**this repository**](https://github.com/gunsugunaydin/Photo-Album-Management-API) to set up the backend for the application.
 
 #### Frontend Setup  
 1. Clone the repository.
