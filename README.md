@@ -6,7 +6,7 @@ This project is the frontend for the [**Photo Album Management API**](https://gi
 
 ## Demo
 
-Below is a quick demo of the **# FullStack Photo Album Application**. The demo is divided into two parts:
+Below is a quick demo of the **FullStack Photo Album Application**. The demo is divided into two parts:
 
 ### Part 1:
 
